@@ -5,7 +5,7 @@ Date: 2020/16/01
 #include <stdio.h>
 
 int main(void) {
-	printf("Ethan\n");
+	printf("Ethan Qualset\n");
 	printf("Undecided\n");
 	printf("Caden Kirby\n");
 	printf("Undecided\n);
