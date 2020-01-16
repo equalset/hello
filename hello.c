@@ -1,4 +1,4 @@
-/* This program should print my name, this is hack 1
+/* This is hack 1
 
 Date: 2020/16/01
 */
@@ -6,5 +6,6 @@ Date: 2020/16/01
 
 int main(void) {
 	printf("Ethan\n");
+	printf("Undecided\n");
 		return 0;
 }
